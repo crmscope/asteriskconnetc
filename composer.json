@@ -1,0 +1,22 @@
+{
+    "name": "crmscope/asteriskConnetc",
+    "description": "",
+    "authors": [
+        {
+            "name": "crmscope",
+            "email": "crmscope@mail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "crmscope\\asteriskConnetc\\": "src/"
+        }
+    }
+}
