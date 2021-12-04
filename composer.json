@@ -1,5 +1,5 @@
 {
-    "name": "crmscope/asteriskConnetc",
+    "name": "crmscope/asteriskconnetc",
     "description": "",
     "authors": [
         {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "crmscope\\asteriskConnetc\\": "src/"
+            "crmscope\\asteriskconnetc\\": "src/"
         }
     },
     "config": {
