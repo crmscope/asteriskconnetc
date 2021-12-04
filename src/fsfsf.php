@@ -1,1 +1,5 @@
-fsfsfs
+<?php
+
+
+
+echo "ok";
